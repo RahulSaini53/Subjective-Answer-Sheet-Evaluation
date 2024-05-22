@@ -13,3 +13,14 @@ The "Subjective Answer Sheet Evaluation" project is an innovative solution desig
 <li>User-Friendly Interface: Intuitive and responsive UI design using React.js and Tailwind CSS.</li>
 <li>Admin Dashboard: Dedicated admin panel for managing users, assessments, and evaluation results.</li>
 </ul>
+
+<h3>Technologies Used</h3>
+<h4>Backend</h4>
+Django: A high-level Python web framework for building robust web applications.
+Django REST Framework (DRF): A powerful toolkit for building Web APIs using Django.
+<h4>Frontend</h4>
+React.js: A popular JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for creating custom and responsive designs.
+<h4>Machine Learning & NLP</h4>
+Scikit-learn: A versatile machine learning library for Python.
+NLTK (Natural Language Toolkit): A leading platform for building Python programs to work with human language data.
