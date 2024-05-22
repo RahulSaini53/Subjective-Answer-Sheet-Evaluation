@@ -16,11 +16,19 @@ The "Subjective Answer Sheet Evaluation" project is an innovative solution desig
 
 <h3>Technologies Used</h3>
 <h4>Backend</h4>
-Django: A high-level Python web framework for building robust web applications. <br />
-Django REST Framework (DRF): A powerful toolkit for building Web APIs using Django.
+<ul>
+<li>Django: A high-level Python web framework for building robust web applications. </li>
+<li>Django REST Framework (DRF): A powerful toolkit for building Web APIs using Django.</li>
+</ul>
+
 <h4>Frontend</h4>
-React.js: A popular JavaScript library for building user interfaces.<br />
-Tailwind CSS: A utility-first CSS framework for creating custom and responsive designs.
+<ul>
+<li>React.js: A popular JavaScript library for building user interfaces.</li>
+<li>Tailwind CSS: A utility-first CSS framework for creating custom and responsive designs.</li>
+</ul>
+
 <h4>Machine Learning & NLP</h4>
-Scikit-learn: A versatile machine learning library for Python.<br />
-NLTK (Natural Language Toolkit): A leading platform for building Python programs to work with human language data.
+<ul>
+<li>Scikit-learn: A versatile machine learning library for Python.</li>
+<li>NLTK (Natural Language Toolkit): A leading platform for building Python programs to work with human language data.</li>
+</ul>
