@@ -32,3 +32,32 @@ The "Subjective Answer Sheet Evaluation" project is an innovative solution desig
 <li>Scikit-learn: A versatile machine learning library for Python.</li>
 <li>NLTK (Natural Language Toolkit): A leading platform for building Python programs to work with human language data.</li>
 </ul>
+
+<h2>Installation</h2>
+
+    <ol>
+        <li><strong>Clone the Repository:</strong>
+            <pre><code>git clone https://github.com/your-username/subjective-answer-sheet-evaluation.git
+cd subjective-answer-sheet-evaluation</code></pre>
+        </li>
+        <li><strong>Install Dependencies:</strong>
+            <pre><code># Backend
+cd backend
+pip install -r requirements.txt
+
+# Frontend
+cd ../frontend
+npm install</code></pre>
+        </li>
+        <li><strong>Run the Development Servers:</strong>
+            <pre><code># Backend
+cd ../backend
+python manage.py runserver
+
+# Frontend
+cd ../frontend
+npm start</code></pre>
+        </li>
+        <li><strong>Access the Application:</strong> Open your web browser and navigate to <a href="http://localhost:3000">http://localhost:3000</a> to access the frontend.</li>
+    </ol>
+
