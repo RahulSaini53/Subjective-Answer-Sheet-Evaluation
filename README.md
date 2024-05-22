@@ -37,10 +37,10 @@ The "Subjective Answer Sheet Evaluation" project is an innovative solution desig
 
 <ol>
 <li><strong>Clone the Repository:</strong>
-<pre><code>git clone https://github.com/your-username/subjective-answer-sheet-evaluation.git</code></pre>
-cd subjective-answer-sheet-evaluation
-        </li>
-        <li><strong>Install Dependencies:</strong>
+<pre><code>git clone https://github.com/your-username/subjective-answer-sheet-evaluation.git
+cd subjective-answer-sheet-evaluation </code></pre>
+</li>
+<li><strong>Install Dependencies:</strong>
             <pre><code># Backend
 cd backend
 pip install -r requirements.txt
